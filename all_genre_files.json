@@ -1,0 +1,582 @@
+{
+    "pop/main": [
+        "105_pop_132_beat_4-4.wav",
+        "100_pop_142_beat_4-4.wav",
+        "104_pop_132_beat_4-4.wav",
+        "7_pop-groove7_138_beat_4-4.wav",
+        "101_pop_142_beat_4-4.wav",
+        "97_pop_142_beat_4-4.wav",
+        "102_pop_132_beat_4-4.wav",
+        "103_pop_132_beat_4-4.wav",
+        "96_pop_142_beat_4-4.wav"
+    ],
+    "pop/soft": [
+        "22_pop-soft_83_beat_4-4.wav",
+        "11_pop-soft_83_beat_4-4.wav",
+        "23_pop-soft_83_beat_4-4.wav"
+    ],
+    "neworleans/main": [],
+    "neworleans/shuffle": [
+        "9_neworleans-shuffle_104_beat_4-4.wav"
+    ],
+    "neworleans/chacha": [
+        "8_neworleans-chacha_124_beat_4-4.wav"
+    ],
+    "neworleans/secondline": [
+        "6_neworleans-secondline_99_beat_4-4.wav",
+        "100_neworleans-secondline_94_beat_4-4.wav",
+        "7_neworleans-secondline_124_beat_4-4.wav"
+    ],
+    "neworleans/funk": [
+        "11_neworleans-funk_82_beat_4-4.wav",
+        "19_neworleans-funk_90_beat_4-4.wav",
+        "10_neworleans-funk_102_beat_4-4.wav",
+        "10_neworleans-funk_82_beat_4-4.wav",
+        "67_neworleans-funk_93_beat_4-4.wav",
+        "82_neworleans-funk_84_beat_4-4.wav",
+        "91_neworleans-funk_93_beat_4-4.wav",
+        "20_neworleans-funk_90_beat_4-4.wav"
+    ],
+    "disco/main": [
+        "6_dance-disco_120_beat_4-4.wav",
+        "26_dance-disco_137_beat_4-4.wav",
+        "27_dance-disco_137_beat_4-4.wav",
+        "101_dance-disco_120_beat_4-4.wav",
+        "7_dance-disco_120_beat_4-4.wav"
+    ],
+    "blues/main": [],
+    "blues/shuffle": [
+        "6_blues-shuffle_134_beat_4-4.wav",
+        "7_blues-shuffle_134_beat_4-4.wav",
+        "8_blues-shuffle_112_beat_4-4.wav",
+        "17_blues-shuffle_72_beat_4-4.wav"
+    ],
+    "afrocuban/main": [
+        "176_afrocuban_105_beat_4-4.wav",
+        "18_afrocuban_128_beat_4-4.wav",
+        "183_afrocuban_105_beat_4-4.wav"
+    ],
+    "afrocuban/bembe": [
+        "112_afrocuban-bembe_122_beat_4-4.wav"
+    ],
+    "afrocuban/rhumba": [
+        "161_afrocuban-rhumba_110_beat_4-4.wav"
+    ],
+    "afrocuban/calypso": [
+        "17_afrocuban-calypso_108_beat_4-4.wav",
+        "13_afrocuban-calypso_124_beat_4-4.wav"
+    ],
+    "latin/main": [
+        "25_latin_84_beat_4-4.wav",
+        "36_latin_118_beat_4-4.wav",
+        "7_latin_95_beat_4-4.wav",
+        "8_latin_95_beat_4-4.wav",
+        "12_latin_118_beat_4-4.wav",
+        "24_latin_84_beat_4-4.wav",
+        "13_latin_118_beat_4-4.wav",
+        "27_latin_122_beat_4-4.wav"
+    ],
+    "latin/venezuelan-sangueo": [
+        "1_latin-venezuelan-sangueo_101_beat_4-4.wav"
+    ],
+    "latin/merengue": [
+        "9_latin-merengue_158_beat_4-4.wav"
+    ],
+    "latin/brazilian-songo": [
+        "23_latin-brazilian-songo_120_beat_4-4.wav",
+        "14_latin-brazilian-songo_112_beat_4-4.wav",
+        "35_latin-brazilian-songo_120_beat_4-4.wav",
+        "34_latin-brazilian-songo_120_beat_4-4.wav",
+        "24_latin-brazilian-songo_120_beat_4-4.wav"
+    ],
+    "latin/brazilian-sambareggae": [
+        "10_latin-brazilian-sambareggae_96_beat_4-4.wav",
+        "12_latin-brazilian-sambareggae_96_beat_4-4.wav",
+        "11_latin-brazilian-sambareggae_96_beat_4-4.wav"
+    ],
+    "latin/brazilian-bossa": [
+        "2_latin-brazilian-bossa_127_beat_4-4.wav",
+        "1_latin-brazilian-bossa_127_beat_4-4.wav"
+    ],
+    "latin/brazilian-ijexa": [
+        "19_latin-brazilian-ijexa_108_beat_4-4.wav",
+        "20_latin-brazilian-ijexa_108_beat_4-4.wav",
+        "21_latin-brazilian-ijexa_108_beat_4-4.wav"
+    ],
+    "latin/brazilian-baiao": [
+        "146_latin-brazilian-baiao_95_beat_4-4.wav",
+        "20_latin-brazilian-baiao_110_beat_4-4.wav",
+        "145_latin-brazilian-baiao_95_beat_4-4.wav"
+    ],
+    "latin/dominican-merengue": [
+        "9_latin-dominican-merengue_130_beat_4-4.wav"
+    ],
+    "latin/brazilian-maracatu": [
+        "7_latin-brazilian-maracatu_96_beat_4-4.wav",
+        "6_latin-brazilian-maracatu_96_beat_4-4.wav"
+    ],
+    "latin/samba": [
+        "38_latin-samba_116_beat_4-4.wav",
+        "28_latin-samba_116_beat_4-4.wav"
+    ],
+    "latin/venezuelan-joropo": [
+        "15_latin-venezuelan-joropo_80_beat_4-4.wav"
+    ],
+    "latin/brazilian-samba": [
+        "5_latin-brazilian-samba_89_beat_4-4.wav",
+        "4_latin-brazilian-samba_89_beat_4-4.wav",
+        "18_latin-brazilian-samba_93_beat_4-4.wav",
+        "3_latin-brazilian-samba_89_beat_4-4.wav",
+        "17_latin-brazilian-samba_110_beat_4-4.wav"
+    ],
+    "latin/chacarera": [
+        "3_latin-chacarera_118_beat_4-4.wav",
+        "2_latin-chacarera_118_beat_4-4.wav"
+    ],
+    "latin/bomba": [
+        "12_latin-bomba_96_beat_4-4.wav"
+    ],
+    "latin/brazilian-frevo": [
+        "22_latin-brazilian-frevo_133_beat_4-4.wav"
+    ],
+    "latin/brazilian": [
+        "5_latin-brazilian_184_beat_4-4.wav",
+        "2_latin-brazilian_101_beat_4-4.wav",
+        "3_latin-brazilian_101_beat_4-4.wav",
+        "4_latin-brazilian_92_beat_4-4.wav"
+    ],
+    "latin/reggaeton": [
+        "79_latin-reggaeton_90_beat_4-4.wav"
+    ],
+    "latin/bounce": [
+        "28_latin-bounce_106_beat_4-4.wav",
+        "29_latin-bounce_106_beat_4-4.wav"
+    ],
+    "reggae/main": [
+        "184_reggae_78_beat_4-4.wav",
+        "5_reggae_126_beat_4-4.wav",
+        "4_reggae_141_beat_4-4.wav"
+    ],
+    "reggae/slow": [
+        "201_reggae-slow_64_beat_4-4.wav"
+    ],
+    "afrobeat/main": [
+        "30_afrobeat_98_beat_4-4.wav",
+        "16_afrobeat_90_beat_4-4.wav",
+        "17_afrobeat_90_beat_4-4.wav",
+        "14_afrobeat_103_beat_4-4.wav",
+        "17_afrobeat_85_beat_4-4.wav",
+        "31_afrobeat_98_beat_4-4.wav",
+        "26_afrobeat_94_beat_4-4.wav",
+        "11_afrobeat_94_beat_4-4.wav",
+        "13_afrobeat_103_beat_4-4.wav",
+        "21_afrobeat_110_beat_4-4.wav",
+        "3_afrobeat_114_beat_4-4.wav",
+        "18_afrobeat_85_beat_4-4.wav",
+        "4_afrobeat_114_beat_4-4.wav"
+    ],
+    "rock/main": [
+        "27_rock_120_beat_4-4.wav",
+        "49_rock_120_beat_4-4.wav",
+        "10_rock_100_beat_4-4.wav",
+        "6_rock_120_beat_4-4.wav",
+        "1_rock_130_beat_4-4.wav",
+        "49_rock_135_beat_4-4.wav",
+        "120_rock_93_beat_4-4.wav",
+        "43_rock_110_beat_4-4.wav",
+        "9_rock_130_beat_4-4.wav",
+        "24_rock_118_beat_4-4.wav",
+        "18_rock_100_beat_4-4.wav",
+        "10_rock_93_beat_4-4.wav",
+        "30_rock_92_beat_4-4.wav",
+        "41_rock_120_beat_4-4.wav",
+        "4_rock_105_beat_4-4.wav",
+        "3_rock_100_beat_4-4.wav",
+        "35_rock_92_beat_4-4.wav",
+        "15_rock_120_beat_4-4.wav",
+        "33_rock_117_beat_4-4.wav",
+        "29_rock_75_beat_4-4.wav",
+        "12_rock_130_beat_4-4.wav",
+        "7_rock_88_beat_4-4.wav",
+        "9_rock_100_beat_4-4.wav",
+        "25_rock_120_beat_4-4.wav",
+        "22_rock_92_beat_4-4.wav",
+        "12_rock_100_beat_4-4.wav",
+        "4_rock_127_beat_4-4.wav",
+        "3_rock_130_beat_4-4.wav",
+        "4_rock_120_beat_4-4.wav",
+        "1_rock_100_beat_4-4.wav",
+        "10_rock_130_beat_4-4.wav",
+        "17_rock_120_beat_4-4.wav",
+        "24_rock_90_beat_4-4.wav",
+        "26_rock_118_beat_4-4.wav",
+        "28_rock_92_beat_4-4.wav",
+        "117_rock_95_beat_4-4.wav",
+        "6_rock_105_beat_4-4.wav",
+        "1_rock_60_beat_4-4.wav",
+        "43_rock_120_beat_4-4.wav",
+        "11_rock_93_beat_4-4.wav",
+        "1_rock_95_beat_4-4.wav",
+        "45_rock_120_beat_4-4.wav",
+        "10_rock_60_beat_4-4.wav",
+        "53_rock_135_beat_4-4.wav",
+        "34_rock_92_beat_4-4.wav",
+        "14_rock_94_beat_4-4.wav",
+        "1_rock_87_beat_4-4.wav",
+        "11_rock_120_beat_4-4.wav",
+        "45_rock_135_beat_4-4.wav",
+        "7_rock_100_beat_4-4.wav",
+        "38_rock_112_beat_4-4.wav",
+        "23_rock_120_beat_4-4.wav",
+        "18_rock_128_beat_4-4.wav",
+        "180_rock_50_beat_4-4.wav",
+        "2_rock_120_beat_4-4.wav",
+        "27_rock_75_beat_4-4.wav",
+        "35_rock_120_beat_4-4.wav",
+        "14_rock_100_beat_4-4.wav",
+        "19_rock_120_beat_4-4.wav",
+        "14_rock_140_beat_4-4.wav",
+        "47_rock_110_beat_4-4.wav",
+        "8_rock_135_beat_4-4.wav",
+        "14_rock_95_beat_4-4.wav",
+        "14_rock_130_beat_4-4.wav",
+        "13_rock_120_beat_4-4.wav",
+        "16_rock_136_beat_4-4.wav",
+        "30_rock_75_beat_4-4.wav",
+        "5_rock_100_beat_4-4.wav",
+        "1_rock_86_beat_4-4.wav",
+        "22_rock_118_beat_4-4.wav",
+        "47_rock_120_beat_4-4.wav",
+        "29_rock_92_beat_4-4.wav",
+        "29_rock_120_beat_4-4.wav",
+        "2_rock_105_beat_4-4.wav",
+        "25_rock_90_beat_4-4.wav",
+        "2_rock_102_beat_4-4.wav",
+        "119_rock_95_beat_4-4.wav",
+        "6_rock_88_beat_4-4.wav",
+        "23_rock_92_beat_4-4.wav",
+        "21_rock_120_beat_4-4.wav",
+        "3_rock_88_beat_4-4.wav",
+        "7_rock_130_beat_4-4.wav",
+        "37_rock_120_beat_4-4.wav",
+        "16_rock_100_beat_4-4.wav",
+        "40_rock_120_beat_4-4.wav",
+        "20_rock_92_beat_4-4.wav",
+        "8_rock_93_beat_4-4.wav",
+        "5_rock_105_beat_4-4.wav",
+        "38_rock_120_beat_4-4.wav",
+        "8_rock_130_beat_4-4.wav",
+        "19_rock_100_beat_4-4.wav",
+        "2_rock_100_beat_4-4.wav",
+        "13_rock_130_beat_4-4.wav",
+        "32_rock_117_beat_4-4.wav",
+        "14_rock_120_beat_4-4.wav",
+        "29_rock_90_beat_4-4.wav",
+        "11_rock_100_beat_4-4.wav",
+        "30_rock_120_beat_4-4.wav",
+        "7_rock_120_beat_4-4.wav",
+        "12_rock_95_beat_4-4.wav",
+        "48_rock_120_beat_4-4.wav",
+        "26_rock_120_beat_4-4.wav",
+        "26_rock_90_beat_4-4.wav",
+        "42_rock_110_beat_4-4.wav",
+        "33_rock_75_beat_4-4.wav",
+        "7_rock_93_beat_4-4.wav",
+        "1_rock_90_beat_4-4.wav",
+        "16_rock_120_beat_4-4.wav",
+        "11_rock_130_beat_4-4.wav",
+        "48_rock_110_beat_4-4.wav",
+        "37_rock_112_beat_4-4.wav",
+        "64_rock_145_beat_4-4.wav",
+        "7_rock_105_beat_4-4.wav",
+        "8_rock_95_beat_4-4.wav",
+        "42_rock_120_beat_4-4.wav",
+        "38_rock_92_beat_4-4.wav",
+        "15_rock_118_beat_4-4.wav",
+        "13_rock_140_beat_4-4.wav",
+        "13_rock_115_beat_4-4.wav",
+        "181_rock_115_beat_4-4.wav",
+        "37_rock_92_beat_4-4.wav",
+        "108_rock_95_beat_4-4.wav",
+        "23_rock_96_beat_4-4.wav",
+        "8_rock_100_beat_4-4.wav",
+        "13_rock_100_beat_4-4.wav",
+        "5_rock_120_beat_4-4.wav",
+        "2_rock_130_beat_4-4.wav",
+        "2_rock_95_beat_4-4.wav",
+        "24_rock_120_beat_4-4.wav",
+        "5_rock_180_beat_4-4.wav",
+        "27_rock_90_beat_4-4.wav",
+        "34_rock_120_beat_4-4.wav",
+        "4_rock_130_beat_4-4.wav",
+        "3_rock_120_beat_4-4.wav",
+        "28_rock_102_beat_4-4.wav",
+        "15_rock_100_beat_4-4.wav",
+        "22_rock_120_beat_4-4.wav",
+        "9_rock_105_beat_4-4.wav",
+        "12_rock_105_beat_4-4.wav",
+        "18_rock_120_beat_4-4.wav",
+        "1_rock_105_beat_4-4.wav",
+        "44_rock_120_beat_4-4.wav",
+        "21_rock_92_beat_4-4.wav",
+        "9_rock_93_beat_4-4.wav",
+        "6_rock_100_beat_4-4.wav",
+        "1_rock_110_beat_4-4.wav",
+        "28_rock_90_beat_4-4.wav",
+        "24_rock_92_beat_4-4.wav",
+        "10_rock_105_beat_4-4.wav",
+        "109_rock_95_beat_4-4.wav",
+        "22_rock_96_beat_4-4.wav",
+        "129_rock_93_beat_4-4.wav",
+        "36_rock_92_beat_4-4.wav",
+        "1_rock_120_beat_4-4.wav",
+        "6_rock_130_beat_4-4.wav",
+        "36_rock_120_beat_4-4.wav",
+        "17_rock_100_beat_4-4.wav",
+        "20_rock_120_beat_4-4.wav",
+        "12_rock_120_beat_4-4.wav",
+        "15_rock_130_beat_4-4.wav",
+        "30_rock_90_beat_4-4.wav",
+        "4_rock_100_beat_4-4.wav",
+        "46_rock_135_beat_4-4.wav",
+        "9_rock_135_beat_4-4.wav",
+        "28_rock_120_beat_4-4.wav",
+        "46_rock_120_beat_4-4.wav",
+        "3_rock_105_beat_4-4.wav",
+        "50_rock_120_beat_4-4.wav"
+    ],
+    "rock/shuffle": [
+        "1_rock-shuffle_85_beat_4-4.wav",
+        "20_rock-shuffle_112_beat_4-4.wav",
+        "51_rock-shuffle_125_beat_4-4.wav",
+        "21_rock-shuffle_112_beat_4-4.wav"
+    ],
+    "rock/groove8": [
+        "8_rock-groove8_65_beat_4-4.wav"
+    ],
+    "rock/indie": [
+        "40_rock-indie_104_beat_4-4.wav",
+        "39_rock-indie_104_beat_4-4.wav",
+        "46_rock-indie_63_beat_4-4.wav",
+        "39_rock-indie_63_beat_4-4.wav"
+    ],
+    "rock/halftime": [
+        "202_rock-halftime_140_beat_4-4.wav"
+    ],
+    "rock/prog": [
+        "1_rock-prog_125_beat_4-4.wav",
+        "110_rock-prog_190_beat_4-4.wav"
+    ],
+    "rock/folk": [
+        "10_rock-folk_90_beat_4-4.wav"
+    ],
+    "rock/rockabilly": [
+        "3_rock-rockabilly_200_beat_4-4.wav"
+    ],
+    "hiphop/main": [
+        "33_hiphop_92_beat_4-4.wav",
+        "38_hiphop_67_beat_4-4.wav",
+        "41_hiphop_110_beat_4-4.wav",
+        "39_hiphop_100_beat_4-4.wav",
+        "3_hiphop_90_beat_4-4.wav",
+        "4_hiphop_90_beat_4-4.wav",
+        "106_hiphop_70_beat_4-4.wav",
+        "23_hiphop_70_beat_4-4.wav",
+        "40_hiphop_100_beat_4-4.wav",
+        "5_hiphop_90_beat_4-4.wav",
+        "123_hiphop_140_beat_4-4.wav",
+        "31_hiphop_92_beat_4-4.wav",
+        "22_hiphop_100_beat_4-4.wav",
+        "87_hiphop_75_beat_4-4.wav",
+        "92_hiphop_70_beat_4-4.wav",
+        "32_hiphop_92_beat_4-4.wav",
+        "18_hiphop_100_beat_4-4.wav",
+        "17_hiphop_100_beat_4-4.wav",
+        "92_hiphop_75_beat_4-4.wav",
+        "15_hiphop_94_beat_4-4.wav",
+        "38_hiphop_100_beat_4-4.wav",
+        "40_hiphop_110_beat_4-4.wav",
+        "25_hiphop_92_beat_4-4.wav",
+        "16_hiphop_100_beat_4-4.wav",
+        "24_hiphop_67_beat_4-4.wav",
+        "10_hiphop_86_beat_4-4.wav",
+        "9_hiphop_86_beat_4-4.wav",
+        "14_hiphop_94_beat_4-4.wav",
+        "26_hiphop_92_beat_4-4.wav",
+        "93_hiphop_75_beat_4-4.wav"
+    ],
+    "hiphop/groove6": [
+        "6_hiphop-groove6_87_beat_4-4.wav"
+    ],
+    "punk/main": [
+        "35_punk_128_beat_4-4.wav",
+        "62_punk_144_beat_4-4.wav",
+        "37_punk_128_beat_4-4.wav",
+        "33_punk_128_beat_4-4.wav",
+        "34_punk_128_beat_4-4.wav",
+        "36_punk_128_beat_4-4.wav",
+        "32_punk_140_beat_4-4.wav"
+    ],
+    "gospel/main": [
+        "142_gospel_120_beat_4-4.wav"
+    ],
+    "breakbeat/main": [
+        "81_dance-breakbeat_170_beat_4-4.wav",
+        "80_dance-breakbeat_170_beat_4-4.wav"
+    ],
+    "highlife/main": [
+        "41_highlife_126_beat_4-4.wav",
+        "42_highlife_126_beat_4-4.wav"
+    ],
+    "soul/main": [
+        "159_soul_98_beat_4-4.wav",
+        "131_soul_105_beat_4-4.wav",
+        "133_soul_105_beat_4-4.wav",
+        "3_soul-groove3_86_beat_4-4.wav",
+        "9_soul-groove9_105_beat_4-4.wav",
+        "130_soul_105_beat_4-4.wav",
+        "132_soul_105_beat_4-4.wav",
+        "151_soul_98_beat_4-4.wav",
+        "10_soul-groove10_102_beat_4-4.wav",
+        "4_soul-groove4_80_beat_4-4.wav",
+        "150_soul_105_beat_4-4.wav",
+        "11_soul_96_beat_4-4.wav"
+    ],
+    "soul/motown": [
+        "54_soul-motown_148_beat_4-4.wav",
+        "106_soul-motown_104_beat_4-4.wav",
+        "108_soul-motown_104_beat_4-4.wav",
+        "63_soul-motown_148_beat_4-4.wav"
+    ],
+    "wavdleeastern/main": [
+        "19_wavdleeastern_126_beat_4-4.wav"
+    ],
+    "country/main": [
+        "80_country_78_beat_4-4.wav",
+        "10_country_114_beat_4-4.wav"
+    ],
+    "funk/main": [
+        "79_funk_100_beat_4-4.wav",
+        "12_funk_81_beat_4-4.wav",
+        "2_funk_80_beat_4-4.wav",
+        "2_funk_95_beat_4-4.wav",
+        "7_funk_80_beat_4-4.wav",
+        "2_funk_92_beat_4-4.wav",
+        "102_funk_95_beat_4-4.wav",
+        "12_funk_102_beat_4-4.wav",
+        "15_funk_100_beat_4-4.wav",
+        "65_funk_112_beat_4-4.wav",
+        "49_funk_112_beat_4-4.wav",
+        "47_funk_112_beat_4-4.wav",
+        "3_funk_80_beat_4-4.wav",
+        "6_funk_80_beat_4-4.wav",
+        "18_funk_108_beat_4-4.wav",
+        "5_funk_91_beat_4-4.wav",
+        "77_funk_100_beat_4-4.wav",
+        "16_funk_117_beat_4-4.wav",
+        "16_funk_95_beat_4-4.wav",
+        "9_funk_96_beat_4-4.wav",
+        "15_funk_95_beat_4-4.wav",
+        "78_funk_100_beat_4-4.wav",
+        "6_funk_91_beat_4-4.wav",
+        "64_funk_112_beat_4-4.wav",
+        "72_funk_100_beat_4-4.wav",
+        "48_funk_112_beat_4-4.wav",
+        "13_funk_102_beat_4-4.wav",
+        "15_funk_117_beat_4-4.wav",
+        "8_funk_96_beat_4-4.wav",
+        "2_funk-groove2_105_beat_4-4.wav",
+        "19_funk_108_beat_4-4.wav",
+        "1_funk_95_beat_4-4.wav",
+        "1_funk_92_beat_4-4.wav",
+        "22_funk_115_beat_4-4.wav",
+        "11_funk_81_beat_4-4.wav",
+        "76_funk_100_beat_4-4.wav",
+        "1_funk_80_beat_4-4.wav"
+    ],
+    "funk/groove1": [
+        "1_funk-groove1_138_beat_4-4.wav"
+    ],
+    "funk/latin": [
+        "24_funk-latin_100_beat_4-4.wav",
+        "25_funk-latin_100_beat_4-4.wav"
+    ],
+    "funk/purdieshuffle": [
+        "239_funk-purdieshuffle_130_beat_4-4.wav"
+    ],
+    "funk/fast": [
+        "126_funk-fast_125_beat_4-4.wav"
+    ],
+    "funk/rock": [
+        "90_funk-rock_92_beat_4-4.wav"
+    ],
+    "funk/groove5": [
+        "5_funk-groove5_84_beat_4-4.wav"
+    ],
+    "jazz/main": [
+        "19_jazz_120_beat_4-4.wav",
+        "23_jazz_120_beat_4-4.wav",
+        "8_jazz_105_beat_4-4.wav",
+        "47_jazz_102_beat_4-4.wav",
+        "14_jazz_100_beat_4-4.wav",
+        "48_jazz_93_beat_4-4.wav",
+        "21_jazz_120_beat_4-4.wav",
+        "31_jazz_120_beat_4-4.wav",
+        "50_jazz_125_beat_4-4.wav",
+        "15_jazz_120_beat_4-4.wav",
+        "39_jazz_120_beat_4-4.wav",
+        "33_jazz_120_beat_4-4.wav",
+        "52_jazz_125_beat_4-4.wav",
+        "27_jazz_92_beat_4-4.wav",
+        "17_jazz_120_beat_4-4.wav",
+        "15_jazz_112_beat_4-4.wav",
+        "22_jazz_120_beat_4-4.wav",
+        "49_jazz_125_beat_4-4.wav",
+        "2_jazz_158_beat_4-4.wav",
+        "75_jazz_125_beat_4-4.wav",
+        "16_jazz_120_beat_4-4.wav",
+        "32_jazz_120_beat_4-4.wav"
+    ],
+    "jazz/fusion": [
+        "112_jazz-fusion_96_beat_4-4.wav",
+        "113_jazz-fusion_96_beat_4-4.wav",
+        "115_jazz-fusion_96_beat_4-4.wav",
+        "114_jazz-fusion_96_beat_4-4.wav"
+    ],
+    "jazz/mediumfast": [
+        "77_jazz-mediumfast_180_beat_4-4.wav",
+        "76_jazz-mediumfast_180_beat_4-4.wav"
+    ],
+    "jazz/swing": [
+        "7_jazz-swing_215_beat_4-4.wav",
+        "2_jazz-swing_215_beat_4-4.wav",
+        "2_jazz-swing_185_beat_4-4.wav",
+        "8_jazz-swing_215_beat_4-4.wav",
+        "3_jazz-swing_215_beat_4-4.wav",
+        "10_jazz-swing_110_beat_4-4.wav",
+        "6_jazz-swing_215_beat_4-4.wav",
+        "5_jazz-swing_215_beat_4-4.wav",
+        "1_jazz-swing_124_beat_4-4.wav",
+        "9_jazz-swing_110_beat_4-4.wav",
+        "4_jazz-swing_215_beat_4-4.wav"
+    ],
+    "jazz/linear": [
+        "4_jazz-linear_182_beat_4-4.wav",
+        "5_jazz-linear_128_beat_4-4.wav"
+    ],
+    "jazz/fast": [
+        "78_jazz-fast_290_beat_4-4.wav"
+    ],
+    "jazz/klezmer": [
+        "3_jazz-klezmer_152_beat_4-4.wav"
+    ],
+    "jazz/march": [
+        "7_jazz-march_88_beat_4-4.wav",
+        "8_jazz-march_176_beat_4-4.wav",
+        "9_jazz-march_120_beat_4-4.wav"
+    ],
+    "jazz/funk": [
+        "5_jazz-funk_116_beat_4-4.wav",
+        "4_jazz-funk_116_beat_4-4.wav"
+    ]
+}
